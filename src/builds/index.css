@@ -1,0 +1,27 @@
+.links{
+    text-decoration: none;
+    ;
+    color: black;
+    margin-left: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    
+}
+.links:hover{
+    background-color: gray;
+}
+#logo{
+    display: inline-block;
+    margin-right: 350px;
+    margin-left: 100px;
+}
+#loginButton{
+    margin-left: 430px;
+    
+}
+.paths{
+    display: inline-block;
+}
+.navbar{
+    border: 1px solid black;
+}
